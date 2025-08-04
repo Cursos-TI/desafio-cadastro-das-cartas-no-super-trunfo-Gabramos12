@@ -23,19 +23,19 @@ int main() {
    printf("Carta 01 \n");
 
    printf("Estado = "); 
-   scanf("%c",&estado);
+   scanf("%c",estado);
 
    printf("População = "); 
    scanf("%d",&populacao);
 
    printf("Nome da cidade = "); 
-   scanf("%s",&nomeCidade);
+   scanf("%s",nomeCidade);
 
    printf(" Área = ");
    scanf("%f", &Área);
 
    printf("Código = "); 
-   scanf("%s",&codigo);
+   scanf("%s",codigo);
 
    printf(" PIB = ");
    scanf("%f", &PIB);
@@ -54,19 +54,19 @@ int main() {
     printf("Carta 02 \n");
 
     printf("Estado = "); 
-    scanf("%s", &Estado);
+    scanf("%s",Estado);
 
     printf(" População = "); 
     scanf("%d",&b2populacao);
     
     printf("Nome da cidade = "); 
-    scanf("%s", &b2nomeCidade);
+    scanf("%s",b2nomeCidade);
 
     printf(" Área = ");
     scanf("%f", &b2Área);
     
     printf("Código = "); 
-    scanf("%s", &Codigo);
+    scanf("%s",Codigo);
 
     printf(" PIB = ");
     scanf("%f", &b2PIB);
